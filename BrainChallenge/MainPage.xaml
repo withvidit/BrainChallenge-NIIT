@@ -11,8 +11,8 @@
             <TextBlock x:Name="textBlock" Margin="221,201,193,417" TextWrapping="Wrap" Text="Brain Challenge" FontSize="72" FontWeight="Bold" Foreground="#FFBEC714" TextAlignment="Center" FontStyle="Italic"/>
             <TextBlock x:Name="textBlock1" Margin="433,164,401,572" TextWrapping="Wrap" Text="EduFun.Inc Presents" FontSize="24" Foreground="#FF13E0D7" TextAlignment="Center" LineHeight="20"/>
             <Grid Margin="10,406,10,225" Width="1346">
-                <Button x:Name="button" Content="Start Game" Margin="249,35,0,7" FontSize="18" FontWeight="SemiBold" Height="93" Width="187"/>
-                <Button x:Name="button1" Content="Resume Game" Margin="941,35,0,7" FontSize="18" Height="93" Width="206"/>
+                <Button x:Name="button" Content="Start Game" Margin="249,35,0,7" FontSize="18" FontWeight="SemiBold" Height="93" Width="187" Click="button_Click"/>
+                <Button x:Name="button1" Content="Resume Game" Margin="941,35,0,7" FontSize="18" Height="93" Width="206" Click="button1_Click"/>
             </Grid>
         </Grid>
     </Viewbox>
