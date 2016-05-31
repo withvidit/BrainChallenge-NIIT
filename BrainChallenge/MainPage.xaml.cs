@@ -34,5 +34,7 @@ namespace BrainChallenge
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
         }
+
+        
     }
 }
