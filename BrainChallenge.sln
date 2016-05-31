@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainChallenge", "BrainChallenge\BrainChallenge.csproj", "{D3229818-43E2-4AD0-8399-2632AD33D8C1}"
 EndProject
 Global
@@ -15,9 +17,9 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|Any CPU.Build.0 = Debug|x64
+		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|Any CPU.Deploy.0 = Debug|x64
 		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|ARM.ActiveCfg = Debug|ARM
 		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|ARM.Build.0 = Debug|ARM
 		{D3229818-43E2-4AD0-8399-2632AD33D8C1}.Debug|ARM.Deploy.0 = Debug|ARM
