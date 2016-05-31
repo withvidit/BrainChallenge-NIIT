@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-HAS2AKJ</Machine>
+    <WindowsUser>V!D!T</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1ff3c050-fea0-404d-a627-ddbbb4ec2ee1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E67195DFFEA511698A2B9CCDCF655873F7C56D9DF5CC117D26B722C2CA7118F5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1ff3c050-fea0-404d-a627-ddbbb4ec2ee1_1.1.0.0_neutral__3e9zxmfgd170m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1ff3c050-fea0-404d-a627-ddbbb4ec2ee1_3e9zxmfgd170m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1ff3c050-fea0-404d-a627-ddbbb4ec2ee1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=nas_2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-31T15:31:44.545</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\bin\Debug\BrainChallenge.exe">
+      <PackagePath>BrainChallenge.exe</PackagePath>
+      <Modified>2016-05-31T17:22:28.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-31T05:24:54.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-31T05:24:54.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-31T05:24:54.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-31T05:24:54.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\bin\Debug\BrainChallenge.xr.xml">
+      <PackagePath>BrainChallenge.xr.xml</PackagePath>
+      <Modified>2016-05-31T17:22:27.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-31T15:31:42.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2016-05-31T15:31:42.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-31T17:22:27.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\V!D!T\Downloads\BrainChallenge-NIIT-master\BrainChallenge-NIIT-master\BrainChallenge\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-31T15:31:43.829</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
