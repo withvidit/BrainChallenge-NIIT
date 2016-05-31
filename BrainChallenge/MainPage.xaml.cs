@@ -35,14 +35,6 @@ namespace BrainChallenge
         {
         }
 
-        private void button_Click(object sender, RoutedEventArgs e)
-        {
-            Frame.Navigate(typeof(BlankPage1));
-        }
-
-        private void button1_Click(object sender, RoutedEventArgs e)
-        {
-            Frame.Navigate(typeof(RulesPage));
-        }
+        
     }
 }
